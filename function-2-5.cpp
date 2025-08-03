@@ -3,7 +3,7 @@ bool is_descending(int array[], int n){
 int flag=0;
     for(int i =0;i<n-1;i++)
     {
-        if(array[i+1]<array[i]){
+        if(array[i+1]>array[i]){
             flag=1;
         }
     }
