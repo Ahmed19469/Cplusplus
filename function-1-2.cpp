@@ -15,7 +15,7 @@ for(int i=0;i<n;i++)
     sum=sum+array[i];
 
 }
-return sum/n;
+return (double)sum/n;
 }
 
 
