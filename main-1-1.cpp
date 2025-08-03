@@ -1,8 +1,5 @@
 
 #include<iostream>
-int main()
-{
-
 
 int main()
 {
@@ -12,4 +9,4 @@ int n=5;
 return array_sum(array,n);
 
 }
-}
+
